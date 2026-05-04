@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
 | [2906-construct-product-matrix](https://github.com/damarasingu/repo_temp/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/damarasingu/repo_temp/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
 | [2906-construct-product-matrix](https://github.com/damarasingu/repo_temp/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/damarasingu/repo_temp/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/damarasingu/repo_temp/tree/master/0796-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
