@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
 | [2906-construct-product-matrix](https://github.com/damarasingu/repo_temp/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/damarasingu/repo_temp/tree/master/3546-equal-sum-grid-partition-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/damarasingu/repo_temp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/damarasingu/repo_temp/tree/master/3660-jump-game-ix) |
 ## Matrix
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/damarasingu/repo_temp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
 |  |
 | ------- |
@@ -49,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3660-jump-game-ix](https://github.com/damarasingu/repo_temp/tree/master/3660-jump-game-ix) |
+## Hash Table
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/damarasingu/repo_temp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/damarasingu/repo_temp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/damarasingu/repo_temp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
