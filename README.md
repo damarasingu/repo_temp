@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/damarasingu/repo_temp/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/damarasingu/repo_temp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/damarasingu/repo_temp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/damarasingu/repo_temp/tree/master/0001-two-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/damarasingu/repo_temp/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
