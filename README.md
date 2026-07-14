@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/damarasingu/repo_temp/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/damarasingu/repo_temp/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/damarasingu/repo_temp/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/damarasingu/repo_temp/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
