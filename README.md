@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/damarasingu/repo_temp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/damarasingu/repo_temp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/damarasingu/repo_temp/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/damarasingu/repo_temp/tree/master/0704-binary-search) |
 | [1306-jump-game-iii](https://github.com/damarasingu/repo_temp/tree/master/1306-jump-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/damarasingu/repo_temp/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/damarasingu/repo_temp/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
