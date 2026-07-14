@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/damarasingu/repo_temp/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/damarasingu/repo_temp/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/damarasingu/repo_temp/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/damarasingu/repo_temp/tree/master/0155-min-stack) |
 ## Design
 |  |
