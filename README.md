@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/damarasingu/repo_temp/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/damarasingu/repo_temp/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/damarasingu/repo_temp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/damarasingu/repo_temp/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/damarasingu/repo_temp/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/damarasingu/repo_temp/tree/master/0061-rotate-list) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/damarasingu/repo_temp/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
