@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/damarasingu/repo_temp/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/damarasingu/repo_temp/tree/master/2906-construct-product-matrix) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/damarasingu/repo_temp/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3546-equal-sum-grid-partition-i](https://github.com/damarasingu/repo_temp/tree/master/3546-equal-sum-grid-partition-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/damarasingu/repo_temp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/damarasingu/repo_temp/tree/master/3660-jump-game-ix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
 | [1914-cyclically-rotating-a-grid](https://github.com/damarasingu/repo_temp/tree/master/1914-cyclically-rotating-a-grid) |
 | [2906-construct-product-matrix](https://github.com/damarasingu/repo_temp/tree/master/2906-construct-product-matrix) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/damarasingu/repo_temp/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3546-equal-sum-grid-partition-i](https://github.com/damarasingu/repo_temp/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/damarasingu/repo_temp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/damarasingu/repo_temp/tree/master/0152-maximum-product-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/damarasingu/repo_temp/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/damarasingu/repo_temp/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3660-jump-game-ix](https://github.com/damarasingu/repo_temp/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/damarasingu/repo_temp/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/damarasingu/repo_temp/tree/master/3393-count-paths-with-the-given-xor-value) |
 <!---LeetCode Topics End-->
