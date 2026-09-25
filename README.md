@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/damarasingu/repo_temp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/damarasingu/repo_temp/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/damarasingu/repo_temp/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/damarasingu/repo_temp/tree/master/0704-binary-search) |
 | [1306-jump-game-iii](https://github.com/damarasingu/repo_temp/tree/master/1306-jump-game-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/damarasingu/repo_temp/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/damarasingu/repo_temp/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/damarasingu/repo_temp/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/damarasingu/repo_temp/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
@@ -178,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/damarasingu/repo_temp/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
