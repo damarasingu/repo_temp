@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/damarasingu/repo_temp/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/damarasingu/repo_temp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3370-smallest-number-with-all-set-bits](https://github.com/damarasingu/repo_temp/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/damarasingu/repo_temp/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Union-Find
 |  |
