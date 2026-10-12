@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/damarasingu/repo_temp/tree/master/0238-product-of-array-except-self) |
+| [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/damarasingu/repo_temp/tree/master/0704-binary-search) |
 | [1306-jump-game-iii](https://github.com/damarasingu/repo_temp/tree/master/1306-jump-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/damarasingu/repo_temp/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
+| [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/damarasingu/repo_temp/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
+| [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/damarasingu/repo_temp/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
+| [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/damarasingu/repo_temp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -198,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/damarasingu/repo_temp/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
