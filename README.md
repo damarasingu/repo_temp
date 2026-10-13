@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/damarasingu/repo_temp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/damarasingu/repo_temp/tree/master/1914-cyclically-rotating-a-grid) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
+| [2542-maximum-subsequence-score](https://github.com/damarasingu/repo_temp/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/damarasingu/repo_temp/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/damarasingu/repo_temp/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/damarasingu/repo_temp/tree/master/0011-container-with-most-water) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2542-maximum-subsequence-score](https://github.com/damarasingu/repo_temp/tree/master/2542-maximum-subsequence-score) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2542-maximum-subsequence-score](https://github.com/damarasingu/repo_temp/tree/master/2542-maximum-subsequence-score) |
 | [2784-check-if-array-is-good](https://github.com/damarasingu/repo_temp/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
+| [2542-maximum-subsequence-score](https://github.com/damarasingu/repo_temp/tree/master/2542-maximum-subsequence-score) |
 ## Bucket Sort
 |  |
 | ------- |
