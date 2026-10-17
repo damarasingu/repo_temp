@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/damarasingu/repo_temp/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damarasingu/repo_temp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/damarasingu/repo_temp/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damarasingu/repo_temp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/damarasingu/repo_temp/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/damarasingu/repo_temp/tree/master/0796-rotate-string) |
 ## Math
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/damarasingu/repo_temp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/damarasingu/repo_temp/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damarasingu/repo_temp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/damarasingu/repo_temp/tree/master/0061-rotate-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/damarasingu/repo_temp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
@@ -265,13 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damarasingu/repo_temp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/damarasingu/repo_temp/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damarasingu/repo_temp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/damarasingu/repo_temp/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damarasingu/repo_temp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/damarasingu/repo_temp/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
