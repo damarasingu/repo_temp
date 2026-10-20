@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/damarasingu/repo_temp/tree/master/0238-product-of-array-except-self) |
 | [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/damarasingu/repo_temp/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/damarasingu/repo_temp/tree/master/1004-max-consecutive-ones-iii) |
 | [1306-jump-game-iii](https://github.com/damarasingu/repo_temp/tree/master/1306-jump-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/damarasingu/repo_temp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/damarasingu/repo_temp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/damarasingu/repo_temp/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/damarasingu/repo_temp/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/damarasingu/repo_temp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/damarasingu/repo_temp/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2906-construct-product-matrix](https://github.com/damarasingu/repo_temp/tree/master/2906-construct-product-matrix) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/damarasingu/repo_temp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/damarasingu/repo_temp/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/damarasingu/repo_temp/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/damarasingu/repo_temp/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/damarasingu/repo_temp/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
 |  |
@@ -301,5 +304,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/damarasingu/repo_temp/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/damarasingu/repo_temp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
