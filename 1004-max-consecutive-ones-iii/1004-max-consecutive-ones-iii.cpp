@@ -5,27 +5,25 @@ using namespace std;
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int left = 0;
-        int zeroCount = 0;
-        int maxLength = 0;
+        int l=0;
+        int zc=0;
+        int ml=0;
 
-        for (int right = 0; right < nums.size(); right++) {
-            if (nums[right] == 0) {
-                zeroCount++;
+        for(int r=0;r<nums.size();r++){
+            if(nums[r]==0){
+                zc++;
             }
 
-            while (zeroCount > k) {
-                if (nums[left] == 0) {
-                    zeroCount--;
+            while(zc>k){
+                if(nums[l]==0){
+                    zc--;
                 }
-
-                left++;
+                l++;
             }
 
-            maxLength = max(maxLength, right - left + 1);
+            ml=max(ml,r-l+1);
         }
 
-        return maxLength;
+        return ml;
     }
 };
-
