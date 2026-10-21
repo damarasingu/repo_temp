@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/damarasingu/repo_temp/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/damarasingu/repo_temp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/damarasingu/repo_temp/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/damarasingu/repo_temp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/damarasingu/repo_temp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/damarasingu/repo_temp/tree/master/0128-longest-consecutive-sequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/damarasingu/repo_temp/tree/master/0078-subsets) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/damarasingu/repo_temp/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/damarasingu/repo_temp/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Union-Find
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/damarasingu/repo_temp/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/damarasingu/repo_temp/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/damarasingu/repo_temp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/damarasingu/repo_temp/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
