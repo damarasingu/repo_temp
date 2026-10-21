@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damarasingu/repo_temp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/damarasingu/repo_temp/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/damarasingu/repo_temp/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/damarasingu/repo_temp/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/damarasingu/repo_temp/tree/master/0796-rotate-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/damarasingu/repo_temp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damarasingu/repo_temp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/damarasingu/repo_temp/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/damarasingu/repo_temp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/damarasingu/repo_temp/tree/master/0692-top-k-frequent-words) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/damarasingu/repo_temp/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/damarasingu/repo_temp/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/damarasingu/repo_temp/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/damarasingu/repo_temp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
