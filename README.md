@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/damarasingu/repo_temp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/damarasingu/repo_temp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/damarasingu/repo_temp/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/damarasingu/repo_temp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/damarasingu/repo_temp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/damarasingu/repo_temp/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/damarasingu/repo_temp/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/damarasingu/repo_temp/tree/master/0079-word-search) |
 | [1914-cyclically-rotating-a-grid](https://github.com/damarasingu/repo_temp/tree/master/1914-cyclically-rotating-a-grid) |
 | [2906-construct-product-matrix](https://github.com/damarasingu/repo_temp/tree/master/2906-construct-product-matrix) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/damarasingu/repo_temp/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/damarasingu/repo_temp/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damarasingu/repo_temp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/damarasingu/repo_temp/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/damarasingu/repo_temp/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/damarasingu/repo_temp/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/damarasingu/repo_temp/tree/master/0424-longest-repeating-character-replacement) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/damarasingu/repo_temp/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/damarasingu/repo_temp/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/damarasingu/repo_temp/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/damarasingu/repo_temp/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -315,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/damarasingu/repo_temp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/damarasingu/repo_temp/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
